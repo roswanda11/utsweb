@@ -51,6 +51,7 @@ Itulah gambaran umum tentang sistem absensi modern. Setiap organisasi mungkin me
 <h3>B. Kebutuhan Sistem</h3>
 
     a. Functional (Use Case)
+    
 | ![img](img/1.jpg.png) |
     b. Non-Functional
     Kebutuhan non-fungsional dalam aplikasi web sistem absensi sekolah berbasis QR
