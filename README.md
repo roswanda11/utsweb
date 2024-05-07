@@ -14,11 +14,7 @@ Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
    
 [<img src=https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png width="120px">]()
 
-2. Domain aplikasi on Web Hosting, klik pada logo di bawah ini:
-
-[<img src=https://res.cloudinary.com/practicaldev/image/fetch/s--ux15-5qy--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/a12tj8n6facp0kt0xb0n.jpeg width="120px">]()
-
-3. Laporan PDF, klik pada logo di bawah ini:
+2. Laporan PDF, klik pada logo di bawah ini:
    
 [<img src=https://images.bisnis.com/posts/2021/01/14/1342816/drive.jpg width="120px">]()
 
@@ -206,7 +202,3 @@ $password = 'superadmin';
 ## Kesimpulan
 
 Dengan aplikasi web sistem absensi sekolah berbasis QR code ini, diharapkan proses absensi di sekolah menjadi lebih efisien dan terotomatisasi. Proyek ini dapat diadaptasi dan dikembangkan lebih lanjut sesuai dengan kebutuhan dan persyaratan sekolah Anda.
-
-## Contributing
-
-Kami menerima kontribusi dari komunitas terbuka untuk meningkatkan aplikasi ini. Jika Anda menemukan masalah, bug, atau memiliki saran untuk peningkatan, silakan buat issue baru dalam repositori ini atau ajukan pull request.
