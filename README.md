@@ -53,6 +53,7 @@ Itulah gambaran umum tentang sistem absensi modern. Setiap organisasi mungkin me
     a. Functional (Use Case)
 
 ![img](img/1.jpg.png)
+
     b. Non-Functional
     Kebutuhan non-fungsional dalam aplikasi web sistem absensi sekolah berbasis QR
     Code meliputi beberapa aspek yang tidak langsung terkait dengan fungsi utama aplikasi, tetapi sangat penting dalam pengembangan dan implementasinya. Berikut adalah beberapa contoh kebutuhan non-fungsional yang relevan:
