@@ -16,23 +16,8 @@ Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
 
 2. Laporan PDF, klik pada logo di bawah ini:
    
-[<img src=https://images.bisnis.com/posts/2021/01/14/1342816/drive.jpg width="120px">]()
+[<img src=https://images.bisnis.com/posts/2021/01/14/1342816/drive.jpg width="120px">](https://drive.google.com/file/d/1JTDfpgfCj9n9tFQg2Wab7GQ4PRRiYrLZ/view?usp=drive_link)
 
-<h2>Akses User Login</h2>
-
-```bash
-- Absensi QR Code_1 (Domain Aplikasi)
-
-Username : 
-
-Password : 
-
-- Absensi QR Code_2
-
-Username : 
-
-Password : 
-```
 <h3>A. Gambaran Umum Sistem Absensi QR Code</h3>
 
 Sistem Absensi QR Code berbasis web menggunakan CodeIgniter 4 dan MySQL adalah aplikasi yang dirancang untukuntuk menyimpan, mengatur, dan mengelola arsip secara digital. Ini memungkinkan organisasi untuk menggantikan atau melengkapi sistem arsip tradisional berbasis kertas dengan solusi berbasis teknologi informasi. Sistem ini memanfaatkan framework PHP CodeIgniter 4 sebagai dasar pengembangan aplikasi web dan basis data MySQL sebagai tempat penyimpanan data.
@@ -66,14 +51,56 @@ Itulah gambaran umum tentang sistem absensi modern. Setiap organisasi mungkin me
 <h3>B. Kebutuhan Sistem</h3>
 
     a. Functional (Use Case)
-    
+| ![img](img/1.jpg.png) |
     b. Non-Functional
+    Kebutuhan non-fungsional dalam aplikasi web sistem absensi sekolah berbasis QR
+    Code meliputi beberapa aspek yang tidak langsung terkait dengan fungsi utama aplikasi, tetapi sangat penting dalam pengembangan dan implementasinya. Berikut adalah beberapa contoh kebutuhan non-fungsional yang relevan:
+    1. Keamanan: Aplikasi harus memastikan keamanan data siswa dan guru dengan menggunakan protokol enkripsi yang kuat untuk melindungi informasi sensitif. Perlindungan terhadap serangan siber, seperti serangan brute force dan SQL injection, harus diimplementasikan.
+    2. Ketersediaan: Aplikasi harus tersedia 24/7 sehingga pengguna dapat mengaksesnya kapan saja. Hal ini dapat dicapai dengan menggunakan infrastruktur hosting yang handal dan memiliki keandalan tinggi, serta melakukan pemeliharaan rutin untuk mencegah downtime.
+    3. Kinerja: Aplikasi harus responsif dan dapat menangani beban pengguna yang besar, terutama pada saat jam sibuk seperti saat siswa tiba di sekolah. Optimisasi kinerja, seperti caching data dan penggunaan teknologi web yang efisien, harus diterapkan untuk memastikan waktu respons aplikasi tetap cepat.
+    4. Skalabilitas: Aplikasi harus dapat diskalakan secara horizontal untuk mengakomodasi pertumbuhan jumlah siswa dan pengguna. Ini berarti sistem harus mampu menangani peningkatan lalu lintas tanpa mengurangi kinerja atau ketersediaan.
+    5. Interoperabilitas: Aplikasi harus dapat berintegrasi dengan sistem lain yang digunakan di sekolah, seperti sistem informasi siswa dan sistem manajemen kelas. Ini memungkinkan pertukaran data yang lancar antara aplikasi absensi dan sistem lainnya.
+    6. Kepatuhan Regulasi: Aplikasi harus mematuhi regulasi dan kebijakan privasi data yang berlaku, seperti GDPR (General Data Protection Regulation) di Uni Eropa atau COPPA (Children's Online Privacy Protection Act) di Amerika Serikat. Perlindungan data pribadi siswa harus menjadi prioritas utama.
+    7. User Experience (UX): Antarmuka pengguna haruslah ramah pengguna dan mudah digunakan, baik oleh siswa, guru, staf sekolah, maupun orang tua siswa. Desain responsif juga diperlukan agar aplikasi dapat diakses dari berbagai perangkat, mulai dari desktop hingga ponsel pintar.
+    8. Dukungan Bahasa: Aplikasi harus mendukung berbagai bahasa untuk memfasilitasi pengguna yang berasal dari berbagai latar belakang dan wilayah.
+    9. Dukungan Teknis: Tim dukungan teknis harus tersedia untuk memberikan bantuan kepada pengguna dalam menangani masalah teknis dan pertanyaan terkait penggunaan aplikasi.
+    10. Backup dan Pemulihan Data: Sistem harus memiliki prosedur backup dan pemulihan data yang teratur untuk melindungi data dari kehilangan atau kerusakan yang tidak terduga.
     
 <h3>C. Rancangan Sistem</h3>
 
+| ![img](img/2.jpg) |
 <h3>D. Rancangan Basis Data (Data Model/ERD)</h3>
 
+| ![img](img/3.jpg) |
 <h3>E. Prototype (Desain Mockup/Figma)</h3>
+
+| Halaman Dashboard                                                                                                   |                                                           Tampilan Absen Masuk                                                           |
+| --------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------: |
+| ![img](img/6.jpg) | ![img](img/4.jpg) |
+
+| Tampilan Absen Keluar                                                                                                   |                                                           Tampilan Login Petugas                                                           |
+| --------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------: |
+| ![img](img/5.jpg) | ![img](img/login.jpg) |
+
+| Tampilan Dashboard Petugas                                                                                                   |                                                           Tampilan CRUD Siswa (Dengan Data Kelas)                                                           |
+| --------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------: |
+| ![img](img/6.jpg) | ![img](img/7.jpg) |
+
+| Tampilan CRUD Guru (Dengan Data Kelas)                                                                                                   |                                                           Tampilan Ubah Data Kehadiran                                                           |
+| --------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------: |
+| ![img](img/8.jpg) | ![img](img/ubah.jpg) |
+
+| Tampilan CRUD Data Siswa                                                                                                   |                                                           Tampilan CRUD Data Guru                                                           |
+| --------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------: |
+| ![img](img/9.jpg) | ![img](img/10.jpg) |
+
+| Tampilan CRUD Data Kelas dan Jurusan                                                                                                   |                                                           Tampilan Generate QR Code                                                           |
+| --------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------: |
+| ![img](img/11.jpg) | ![img](img/12.jpg) |
+
+| Tampilan Generate Laporan                                                                                                   |                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------: |
+| ![img](img/13.jpg) |  |
 
 <h3>F. Hasil Akhir (Demo program)</h3>
 
