@@ -102,7 +102,7 @@ Itulah gambaran umum tentang sistem absensi modern. Setiap organisasi mungkin me
 
 | Tampilan Generate Laporan                                                                                                   |                                                                                                                      |
 | --------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------: |
-| ![img](img/13.jpg) |  |
+| ![img](img/13.jpg) |
 
 <h3>F. Hasil Akhir (Demo program)</h3>
 
