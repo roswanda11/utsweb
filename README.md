@@ -3,7 +3,7 @@ Kelompok 3      : - 312210290 / MUHAMMAD ALBEDRI
                   - 312210293 / MUHAMMAD DIN AL AYUBI
                   - 312210321 / YUDI FERMANA
                   - 312210328 / ROSWANDA NURAINI
-Judul Project   : E-ARSIP
+Judul Project   : Absensi QR Code
 Kelas           : TI. 22. A3
 Mata Kuliah     : Pemrograman Web 2
 Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
@@ -25,42 +25,47 @@ Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
 <h2>Akses User Login</h2>
 
 ```bash
-- E-ARSIP_1 (Domain Aplikasi)
+- Absensi QR Code_1 (Domain Aplikasi)
 
 Username : 
 
 Password : 
 
-- E-ARSIP_2
+- Absensi QR Code_2
 
 Username : 
 
 Password : 
 ```
-<h3>A. Gambaran Umum Sistem E-ARSIP</h3>
+<h3>A. Gambaran Umum Sistem Absensi QR Code</h3>
 
-Sistem E-ARSIP berbasis web menggunakan CodeIgniter 4 dan MySQL adalah aplikasi yang dirancang untukuntuk menyimpan, mengatur, dan mengelola arsip secara digital. Ini memungkinkan organisasi untuk menggantikan atau melengkapi sistem arsip tradisional berbasis kertas dengan solusi berbasis teknologi informasi. Sistem ini memanfaatkan framework PHP CodeIgniter 4 sebagai dasar pengembangan aplikasi web dan basis data MySQL sebagai tempat penyimpanan data.
+Sistem Absensi QR Code berbasis web menggunakan CodeIgniter 4 dan MySQL adalah aplikasi yang dirancang untukuntuk menyimpan, mengatur, dan mengelola arsip secara digital. Ini memungkinkan organisasi untuk menggantikan atau melengkapi sistem arsip tradisional berbasis kertas dengan solusi berbasis teknologi informasi. Sistem ini memanfaatkan framework PHP CodeIgniter 4 sebagai dasar pengembangan aplikasi web dan basis data MySQL sebagai tempat penyimpanan data.
 
-Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait pengelolaan keuangan RT, termasuk pencatatan transaksi, pelacakan pemasukan dan pengeluaran, serta pembuatan laporan keuangan.Berikut ini gambaran umum tentang sistem E-ARSIP:
+Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait pengelolaan keuangan RT, termasuk pencatatan transaksi, pelacakan pemasukan dan pengeluaran, serta pembuatan laporan keuangan.Berikut ini gambaran umum tentang sistem Absensi QR Code:
 
-1. **Penyimpanan Digital:** Sistem e-arsip menyediakan penyimpanan digital untuk berbagai jenis dokumen dan data. Ini termasuk dokumen teks, gambar, video, email, dan bahkan rekaman suara.
-Organisasi dan Klasifikasi: Sistem ini memungkinkan pengguna untuk mengatur dan mengelompokkan arsip berdasarkan kategori, tag, atau metadata lainnya. Ini memudahkan pencarian dan pengambilan informasi di kemudian hari.
+Sistem absensi umumnya merujuk pada cara atau teknologi yang digunakan untuk merekam kehadiran karyawan atau individu lainnya dalam suatu organisasi atau institusi. Tujuan utamanya adalah untuk memastikan bahwa kehadiran individu direkam dengan akurat, efisien, dan terdokumentasi dengan baik. Berikut ini adalah gambaran umum tentang sistem absensi:
 
-2. **Aksesibilitas:** Salah satu keunggulan utama dari sistem e-arsip adalah aksesibilitasnya. Pengguna dapat mengakses arsip dari lokasi mana pun dengan koneksi internet, mengurangi keterbatasan fisik yang terkait dengan arsip tradisional.
-Keamanan: Sistem ini harus dilengkapi dengan lapisan keamanan yang kuat untuk melindungi integritas dan kerahasiaan data. Ini mencakup kontrol akses, enkripsi data, dan pencatatan aktivitas pengguna.
+1. **Metode Absensi Tradisional**: Sebelum era teknologi digital, sistem absensi sering kali dilakukan dengan metode manual seperti menggunakan buku absensi, kartu absensi, atau tanda tangan pada lembar kehadiran.
 
-3. **Audit Trail:** Sistem e-arsip sering kali dilengkapi dengan fitur audit trail yang mencatat aktivitas pengguna, seperti siapa yang mengakses, mengedit, atau menghapus dokumen tertentu. Ini membantu dalam memantau dan melacak penggunaan sistem.
+2. **Sistem Absensi Digital**: Dengan berkembangnya teknologi, banyak organisasi beralih ke sistem absensi digital yang memanfaatkan perangkat keras dan perangkat lunak khusus. Ini bisa berupa:
 
-4. **Retensi dan Disposisi:** Untuk mematuhi peraturan perundang-undangan dan kebijakan organisasi, sistem e-arsip biasanya memiliki fitur untuk mengatur retensi dan disposisi dokumen. Ini berarti dokumen dapat dihapus secara otomatis setelah jangka waktu tertentu atau dipindahkan ke penyimpanan arsip jangka panjang.
+   - **Penggunaan ID atau Kartu Absensi**: Karyawan menggunakan kartu identifikasi atau kode akses untuk masuk dan keluar dari tempat kerja. Sistem ini membutuhkan pembaca kartu atau mesin sidik jari untuk mengidentifikasi karyawan.
+   
+   - **Penggunaan Sidik Jari atau Pengenalan Wajah**: Sistem ini menggunakan teknologi pengenalan biometrik seperti sidik jari atau pemindaian wajah untuk mengidentifikasi karyawan. Hal ini memastikan tingkat keamanan dan akurasi yang tinggi.
+   
+   - **Aplikasi atau Perangkat Lunak Absensi**: Beberapa organisasi menggunakan aplikasi seluler atau perangkat lunak desktop yang memungkinkan karyawan untuk mencatat kehadiran mereka sendiri, baik melalui pengisian formulir atau check-in/check-out digital.
 
-5. **Integrasi dengan Aplikasi Lain:** Sistem e-arsip sering kali dapat diintegrasikan dengan aplikasi perangkat lunak lain yang digunakan oleh organisasi, seperti sistem manajemen konten (CMS), sistem manajemen relasi pelanggan (CRM), atau platform kolaborasi.
+3. **Sistem Absensi Berbasis Web**: Beberapa sistem absensi dapat diakses melalui web, memungkinkan karyawan untuk mencatat kehadiran mereka dari jarak jauh, seperti saat bekerja dari rumah atau berada di lokasi yang jauh dari kantor.
 
-6. **Pencarian Lanjutan:** Fitur pencarian yang canggih memungkinkan pengguna untuk menemukan dokumen dengan cepat dan akurat. Ini dapat mencakup pencarian teks lengkap, pencarian berbasis metadata, atau bahkan pencarian berdasarkan konten visual (untuk dokumen gambar atau video).
+4. **Integrasi dengan Sistem Manajemen Sumber Daya Manusia (SDM)**: Sistem absensi sering terintegrasi dengan sistem manajemen SDM yang lebih besar. Hal ini memungkinkan data kehadiran digunakan untuk mengelola gaji, cuti, dan aspek manajemen lainnya.
 
-7. **Replikasi dan Backup:** Untuk menghindari kehilangan data, sistem e-arsip sering kali dilengkapi dengan fitur replikasi dan pencadangan data yang terjadwal secara teratur.
-Skalabilitas: Sistem ini harus dapat menangani volume arsip yang besar dan dapat diperluas sesuai dengan kebutuhan organisasi seiring waktu.
+5. **Pelaporan dan Analisis**: Sistem absensi modern sering dilengkapi dengan fitur pelaporan dan analisis yang memungkinkan manajemen untuk melacak dan menganalisis pola kehadiran karyawan, termasuk absensi yang tidak terjadwal atau terlambat.
 
-Dengan memanfaatkan sistem e-arsip, organisasi dapat meningkatkan efisiensi operasional, mengurangi biaya penyimpanan fisik, mematuhi peraturan perundang-undangan, dan meningkatkan aksesibilitas dan keamanan informasi.
+6. **Kepatuhan Hukum**: Sistem absensi juga harus mematuhi peraturan dan undang-undang terkait privasi dan hak karyawan, terutama dalam hal penggunaan data biometrik atau informasi pribadi lainnya.
+
+7. **Keamanan Data**: Karena sistem absensi mencakup data sensitif tentang karyawan, penting untuk memiliki langkah-langkah keamanan yang kuat untuk melindungi informasi tersebut dari akses yang tidak sah atau penyalahgunaan.
+
+Itulah gambaran umum tentang sistem absensi modern. Setiap organisasi mungkin memiliki kebutuhan yang berbeda, sehingga sistem yang digunakan dapat bervariasi sesuai dengan skala, keamanan, dan kebutuhan manajemen kehadiran karyawan.
 
 <h3>B. Kebutuhan Sistem</h3>
 
