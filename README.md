@@ -70,10 +70,10 @@ Itulah gambaran umum tentang sistem absensi modern. Setiap organisasi mungkin me
     
 <h3>C. Rancangan Sistem</h3>
 
-| ![img](img/2.jpg) |
+![img](img/2.jpg)
 <h3>D. Rancangan Basis Data (Data Model/ERD)</h3>
 
-| ![img](img/3.jpg) |
+![img](img/3.jpg)
 <h3>E. Prototype (Desain Mockup/Figma)</h3>
 
 | Halaman Dashboard                                                                                                   |                                                           Tampilan Absen Masuk                                                           |
