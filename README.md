@@ -55,16 +55,16 @@ Itulah gambaran umum tentang sistem absensi modern. Setiap organisasi mungkin me
     b. Non-Functional
     Kebutuhan non-fungsional dalam aplikasi web sistem absensi sekolah berbasis QR
     Code meliputi beberapa aspek yang tidak langsung terkait dengan fungsi utama aplikasi, tetapi sangat penting dalam pengembangan dan implementasinya. Berikut adalah beberapa contoh kebutuhan non-fungsional yang relevan:
-    1. Keamanan: Aplikasi harus memastikan keamanan data siswa dan guru dengan menggunakan protokol enkripsi yang kuat untuk melindungi informasi sensitif. Perlindungan terhadap serangan siber, seperti serangan brute force dan SQL injection, harus diimplementasikan.
-    2. Ketersediaan: Aplikasi harus tersedia 24/7 sehingga pengguna dapat mengaksesnya kapan saja. Hal ini dapat dicapai dengan menggunakan infrastruktur hosting yang handal dan memiliki keandalan tinggi, serta melakukan pemeliharaan rutin untuk mencegah downtime.
-    3. Kinerja: Aplikasi harus responsif dan dapat menangani beban pengguna yang besar, terutama pada saat jam sibuk seperti saat siswa tiba di sekolah. Optimisasi kinerja, seperti caching data dan penggunaan teknologi web yang efisien, harus diterapkan untuk memastikan waktu respons aplikasi tetap cepat.
-    4. Skalabilitas: Aplikasi harus dapat diskalakan secara horizontal untuk mengakomodasi pertumbuhan jumlah siswa dan pengguna. Ini berarti sistem harus mampu menangani peningkatan lalu lintas tanpa mengurangi kinerja atau ketersediaan.
-    5. Interoperabilitas: Aplikasi harus dapat berintegrasi dengan sistem lain yang digunakan di sekolah, seperti sistem informasi siswa dan sistem manajemen kelas. Ini memungkinkan pertukaran data yang lancar antara aplikasi absensi dan sistem lainnya.
-    6. Kepatuhan Regulasi: Aplikasi harus mematuhi regulasi dan kebijakan privasi data yang berlaku, seperti GDPR (General Data Protection Regulation) di Uni Eropa atau COPPA (Children's Online Privacy Protection Act) di Amerika Serikat. Perlindungan data pribadi siswa harus menjadi prioritas utama.
-    7. User Experience (UX): Antarmuka pengguna haruslah ramah pengguna dan mudah digunakan, baik oleh siswa, guru, staf sekolah, maupun orang tua siswa. Desain responsif juga diperlukan agar aplikasi dapat diakses dari berbagai perangkat, mulai dari desktop hingga ponsel pintar.
-    8. Dukungan Bahasa: Aplikasi harus mendukung berbagai bahasa untuk memfasilitasi pengguna yang berasal dari berbagai latar belakang dan wilayah.
-    9. Dukungan Teknis: Tim dukungan teknis harus tersedia untuk memberikan bantuan kepada pengguna dalam menangani masalah teknis dan pertanyaan terkait penggunaan aplikasi.
-    10. Backup dan Pemulihan Data: Sistem harus memiliki prosedur backup dan pemulihan data yang teratur untuk melindungi data dari kehilangan atau kerusakan yang tidak terduga.
+1. Keamanan: Aplikasi harus memastikan keamanan data siswa dan guru dengan menggunakan protokol enkripsi yang kuat untuk melindungi informasi sensitif. Perlindungan terhadap serangan siber, seperti serangan brute force dan SQL injection, harus diimplementasikan.
+2. Ketersediaan: Aplikasi harus tersedia 24/7 sehingga pengguna dapat mengaksesnya kapan saja. Hal ini dapat dicapai dengan menggunakan infrastruktur hosting yang handal dan memiliki keandalan tinggi, serta melakukan pemeliharaan rutin untuk mencegah downtime.
+3. Kinerja: Aplikasi harus responsif dan dapat menangani beban pengguna yang besar, terutama pada saat jam sibuk seperti saat siswa tiba di sekolah. Optimisasi kinerja, seperti caching data dan penggunaan teknologi web yang efisien, harus diterapkan untuk memastikan waktu respons aplikasi tetap cepat.
+4. Skalabilitas: Aplikasi harus dapat diskalakan secara horizontal untuk mengakomodasi pertumbuhan jumlah siswa dan pengguna. Ini berarti sistem harus mampu menangani peningkatan lalu lintas tanpa mengurangi kinerja atau ketersediaan.
+5. Interoperabilitas: Aplikasi harus dapat berintegrasi dengan sistem lain yang digunakan di sekolah, seperti sistem informasi siswa dan sistem manajemen kelas. Ini memungkinkan pertukaran data yang lancar antara aplikasi absensi dan sistem lainnya.
+6. Kepatuhan Regulasi: Aplikasi harus mematuhi regulasi dan kebijakan privasi data yang berlaku, seperti GDPR (General Data Protection Regulation) di Uni Eropa atau COPPA (Children's Online Privacy Protection Act) di Amerika Serikat. Perlindungan data pribadi siswa harus menjadi prioritas utama.
+7. User Experience (UX): Antarmuka pengguna haruslah ramah pengguna dan mudah digunakan, baik oleh siswa, guru, staf sekolah, maupun orang tua siswa. Desain responsif juga diperlukan agar aplikasi dapat diakses dari berbagai perangkat, mulai dari desktop hingga ponsel pintar.
+8. Dukungan Bahasa: Aplikasi harus mendukung berbagai bahasa untuk memfasilitasi pengguna yang berasal dari berbagai latar belakang dan wilayah.
+9. Dukungan Teknis: Tim dukungan teknis harus tersedia untuk memberikan bantuan kepada pengguna dalam menangani masalah teknis dan pertanyaan terkait penggunaan aplikasi.
+10. Backup dan Pemulihan Data: Sistem harus memiliki prosedur backup dan pemulihan data yang teratur untuk melindungi data dari kehilangan atau kerusakan yang tidak terduga.
     
 <h3>C. Rancangan Sistem</h3>
 
