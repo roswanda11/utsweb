@@ -20,33 +20,23 @@ Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
 
 <h3>A. Gambaran Umum Sistem Absensi QR Code</h3>
 
-Sistem Absensi QR Code berbasis web menggunakan CodeIgniter 4 dan MySQL adalah aplikasi yang dirancang untukuntuk menyimpan, mengatur, dan mengelola absensi secara digital. Ini memungkinkan organisasi untuk menggantikan atau melengkapi sistem arsip tradisional berbasis kertas dengan solusi berbasis teknologi informasi. Sistem ini memanfaatkan framework PHP CodeIgniter 4 sebagai dasar pengembangan aplikasi web dan basis data MySQL sebagai tempat penyimpanan data.
-
-Dengan sistem ini, pengguna dapat melakukan berbagai tugas penting terkait pengelolaan absensi qr code secara digital, termasuk pencatatan transaksi, pelacakan pemasukan dan pengeluaran, serta pembuatan laporan keuangan.Berikut ini gambaran umum tentang sistem Absensi QR Code:
-
-Sistem absensi umumnya merujuk pada cara atau teknologi yang digunakan untuk merekam kehadiran karyawan atau individu lainnya dalam suatu organisasi atau institusi. Tujuan utamanya adalah untuk memastikan bahwa kehadiran individu direkam dengan akurat, efisien, dan terdokumentasi dengan baik. Berikut ini adalah gambaran umum tentang sistem absensi:
-
-1. **Metode Absensi Tradisional**: Sebelum era teknologi digital, sistem absensi sering kali dilakukan dengan metode manual seperti menggunakan buku absensi, kartu absensi, atau tanda tangan pada lembar kehadiran.
-
-2. **Sistem Absensi Digital**: Dengan berkembangnya teknologi, banyak organisasi beralih ke sistem absensi digital yang memanfaatkan perangkat keras dan perangkat lunak khusus. Ini bisa berupa:
-
+Aplikasi Web Sistem Absensi Sekolah Berbasis QR Code adalah sebuah proyek yang bertujuan untuk mengotomatisasi proses absensi di lingkungan sekolah menggunakan teknologi QR code. Aplikasi ini dikembangkan dengan menggunakan framework CodeIgniter 4 dan didesain untuk mempermudah pengelolaan dan pencatatan kehadiran siswa dan guru.
+Sistem operator petugas absensi siswa membantu sekolah untuk mengelola kehadiran siswa dengan lebih efisien, memantau kepatuhan siswa terhadap aturan kehadiran, dan memberikan informasi yang berguna kepada orang tua atau wali siswa tentang kehadiran anak mereka di sekolah. Berikut adalah gambaran umum dari sistem ini:
+1. Perangkat Kedatangan : Biasanya, sistem ini menggunakan perangkat keras seperti mesin absensi atau ponsel pintar dengan aplikasi khusus untuk merekam kehadiran siswa. Perangkat ini dapat berupa kartu identitas siswa, kode QR untuk pendaftaran kehadiran.
+2. Identifikasi Siswa : Setiap siswa memiliki identitas unik dalam sistem, seperti nomor siswa atau kartu identitas. Ini digunakan untuk merekam kehadiran dengan akurat. Ini bisa berupa:
    - **Penggunaan ID atau Kartu Absensi**: Karyawan menggunakan kartu identifikasi atau kode akses untuk masuk dan keluar dari tempat kerja. Sistem ini membutuhkan pembaca kartu atau mesin sidik jari untuk mengidentifikasi karyawan.
    
    - **Penggunaan Sidik Jari atau Pengenalan Wajah**: Sistem ini menggunakan teknologi pengenalan biometrik seperti sidik jari atau pemindaian wajah untuk mengidentifikasi karyawan. Hal ini memastikan tingkat keamanan dan akurasi yang tinggi.
    
    - **Aplikasi atau Perangkat Lunak Absensi**: Beberapa organisasi menggunakan aplikasi seluler atau perangkat lunak desktop yang memungkinkan karyawan untuk mencatat kehadiran mereka sendiri, baik melalui pengisian formulir atau check-in/check-out digital.
 
-3. **Sistem Absensi Berbasis Web**: Beberapa sistem absensi dapat diakses melalui web, memungkinkan karyawan untuk mencatat kehadiran mereka dari jarak jauh, seperti saat bekerja dari rumah atau berada di lokasi yang jauh dari kantor.
-
-4. **Integrasi dengan Sistem Manajemen Sumber Daya Manusia (SDM)**: Sistem absensi sering terintegrasi dengan sistem manajemen SDM yang lebih besar. Hal ini memungkinkan data kehadiran digunakan untuk mengelola gaji, cuti, dan aspek manajemen lainnya.
-
-5. **Pelaporan dan Analisis**: Sistem absensi modern sering dilengkapi dengan fitur pelaporan dan analisis yang memungkinkan manajemen untuk melacak dan menganalisis pola kehadiran karyawan, termasuk absensi yang tidak terjadwal atau terlambat.
-
-6. **Kepatuhan Hukum**: Sistem absensi juga harus mematuhi peraturan dan undang-undang terkait privasi dan hak karyawan, terutama dalam hal penggunaan data biometrik atau informasi pribadi lainnya.
-
-7. **Keamanan Data**: Karena sistem absensi mencakup data sensitif tentang karyawan, penting untuk memiliki langkah-langkah keamanan yang kuat untuk melindungi informasi tersebut dari akses yang tidak sah atau penyalahgunaan.
-
-Itulah gambaran umum tentang sistem absensi modern. Setiap organisasi mungkin memiliki kebutuhan yang berbeda, sehingga sistem yang digunakan dapat bervariasi sesuai dengan skala, keamanan, dan kebutuhan manajemen kehadiran karyawan.
+3. **Perangkat Lunak Pengelolaan** : Terdapat perangkat lunak yang terhubung dengan perangkat keras untuk mengelola dan menyimpan data kehadiran siswa. Perangkat lunak ini dapat menghasilkan laporan kehadiran, memantau absensi siswa secara realtime, dan mengirimkan pemberitahuan kepada orang tua atau wali siswa jika siswa tidak hadir.
+4. **Database Siswa** : Informasi tentang setiap siswa, seperti nama, kelas, dan informasi
+kontak, disimpan dalam database untuk referensi dan pelacakan.
+5. **Fitur Pemantauan dan Pelaporan** : Sistem ini dapat memberikan kemampuan
+pemantauan langsung kepada guru, staf sekolah, atau administrator. Mereka dapat melihat kehadiran siswa secara real-time dan mengambil tindakan yang diperlukan jika ada siswa yang sering absen atau terlambat.
+6. **Integrasi dengan Sistem Sekolah** : Beberapa sistem operator petugas absensi siswa dapat terintegrasi dengan sistem manajemen siswa yang lebih besar. Ini memungkinkan transfer data yang lebih mudah antara sistem absensi dan sistem lainnya, seperti sistem manajemen kelas atau administrasi sekolah.
+7. **Keamanan Data** : Karena sistem ini mengelola informasi pribadi siswa, keamanan data sangat penting. Ini termasuk enkripsi data, akses terbatas, dan langkah-langkah keamanan lainnya untuk melindungi informasi siswa.
 
 <h3>B. Kebutuhan Sistem</h3>
 
@@ -98,11 +88,11 @@ Itulah gambaran umum tentang sistem absensi modern. Setiap organisasi mungkin me
 
 | Tampilan CRUD Data Kelas dan Jurusan                                                                                                   |                                                           Tampilan Generate QR Code                                                           |
 | --------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------: |
-| ![img](img/11.jpg) | ![img](img/12.jpg) |
+| ![img](img/13.jpg) | ![img](img/12.jpg) |
 
 | Tampilan Generate Laporan                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------- |
-| ![img](img/13.jpg) |
+| ![img](img/11.jpg) |
 
 <h3>F. Hasil Akhir (Demo program)</h3>
 
