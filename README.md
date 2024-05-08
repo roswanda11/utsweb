@@ -1,8 +1,8 @@
 ```bash
-Kelompok 3      : - 312210290 / MUHAMMAD ALBEDRI
-                  - 312210293 / MUHAMMAD DIN AL AYUBI
-                  - 312210321 / YUDI FERMANA
+Kelompok 3      : - 312210293 / MUHAMMAD DIN AL AYUBI
                   - 312210328 / ROSWANDA NURAINI
+                  - 312210290 / MUHAMMAD ALBEDRI
+                  - 312210321 / YUDI FERMANA
 Judul Project   : Absensi QR Code
 Kelas           : TI. 22. A3
 Mata Kuliah     : Pemrograman Web 2
