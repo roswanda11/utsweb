@@ -88,11 +88,11 @@ pemantauan langsung kepada guru, staf sekolah, atau administrator. Mereka dapat 
 
 | Tampilan CRUD Data Kelas dan Jurusan                                                                                                   |                                                           Tampilan Generate QR Code                                                           |
 | --------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------: |
-| ![img](img/13.jpg) | ![img](img/12.jpg) |
+| ![img](img/13.jpg) | ![img](img/11.jpg) |
 
 | Tampilan Generate Laporan                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------- |
-| ![img](img/11.jpg) |
+| ![img](img/12.jpg) |
 
 <h3>F. Hasil Akhir (Demo program)</h3>
 
