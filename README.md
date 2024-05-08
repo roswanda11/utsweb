@@ -16,7 +16,7 @@ Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
 
 2. Laporan PDF, klik pada logo di bawah ini:
    
-[<img src=https://images.bisnis.com/posts/2021/01/14/1342816/drive.jpg width="120px">](https://drive.google.com/file/d/1JTDfpgfCj9n9tFQg2Wab7GQ4PRRiYrLZ/view?usp=drive_link)
+[<img src=https://images.bisnis.com/posts/2021/01/14/1342816/drive.jpg width="120px">](https://drive.google.com/file/d/1HaQChAIv8n-guj53Hxs6BaU9B2sr4KOP/view?usp=drive_link)
 
 <h3>A. Gambaran Umum Sistem Absensi QR Code</h3>
 
