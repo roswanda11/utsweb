@@ -96,7 +96,7 @@ pemantauan langsung kepada guru, staf sekolah, atau administrator. Mereka dapat 
 
 <h3>F. Hasil Akhir (Demo program)</h3>
 
-[<img src=img/download.png width="120px">]()
+[<img src=img/download.png width="120px">](http://sisiswa.my.id/)
 # Aplikasi Web Sistem Absensi Sekolah Berbasis QR Code
 
 Aplikasi Web Sistem Absensi Sekolah Berbasis QR Code adalah sebuah proyek yang bertujuan untuk mengotomatisasi proses absensi di lingkungan sekolah menggunakan teknologi QR code. Aplikasi ini dikembangkan dengan menggunakan framework CodeIgniter 4 dan didesain untuk mempermudah pengelolaan dan pencatatan kehadiran siswa dan guru.
